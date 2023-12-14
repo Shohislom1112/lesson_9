@@ -18,10 +18,6 @@
   border: 25px;
   border-radius: 20px;
   border-color: black;
-  display: flex;
-}
-.phone .ramka {
-  display: flex;
 }
 .phone .ramka .apps .imag {
   width: 100px;
